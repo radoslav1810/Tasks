@@ -1,0 +1,14 @@
+devices:
+  radi:
+    connections:
+      cli:
+        ip: 192.168.0.132
+        protocol: ssh
+    credentials:
+      default:
+        password: radi12
+        username: radi2
+      enable:
+        password: radi12
+    os: Ubuntu
+    type: Linux
