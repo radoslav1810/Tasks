@@ -1,5 +1,0 @@
-testbed:
-  name: "sixth_task"
-  custom:
-    directory: ./custom
-  report-directory: ./data

@@ -1,6 +1,0 @@
-plugins:
-  CopyReport:
-    directory: './custom'          # Source directory for copying
-    enabled: True
-    module: save                    # Module where the plugin is defined
-    order: 1.0                      # Order of execution
