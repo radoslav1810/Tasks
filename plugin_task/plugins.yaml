@@ -1,0 +1,6 @@
+plugins:
+  CopyReportPlugin:
+    directory: "./data"
+    enabled: True
+    module: plug
+    order: 1.0
